@@ -1,9 +1,9 @@
 # ARAM-Cognitive-Engine
-Strategic &amp; Cognitive Architecture framework for decision-making under uncertainty, pressure, and complexity. #strategy #cognitive #decision-making #ai #architecture #systems-thinking #complexity #framework
-
-# ARAM Cognitive Engine
+#strategy #cognitive #decision-making #ai #architecture #systems-thinking #complexity #framework
 
 ## Strategic & Cognitive Architecture for Real-World Decision Systems
+
+> Built for environments where decisions carry consequences.
 
 ---
 
