@@ -5,6 +5,7 @@
 
 > Built for environments where decisions carry consequences.
 
+note: Operational layer is private.
 ---
 
 ## What is ARAM?
